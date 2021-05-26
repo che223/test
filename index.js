@@ -1,1 +1,1 @@
-console.log('你是憨批')
+console.log('吼吼')
